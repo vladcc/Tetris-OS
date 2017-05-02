@@ -51,8 +51,8 @@ And in case you are wondering what's that floppy.img file in images/floppy, it's
 as a template for the actual system image.
 
 Known issues:
-As most operating systems, it sometimes crashes :)
+Sometimes crashes :)
 
 Doing the project was a very educational and fun experience. I have written down all the stuff I was rambling about inside
 my head, so the code is thoroughly commented. 
-If you are interested in this sort of stuff (you magnificent person, you!), feel welcome to drop a line and chit-chat.
+If you are interested in this sort of thing (you magnificent person, you!), feel welcome to drop a line and chit-chat.
