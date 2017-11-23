@@ -1,7 +1,7 @@
 # Tetris-OS
 Tetris running on bare x86 hardware
 
-Hello and welcome to the future! (not really)
+Hello and welcome to the future!
 
 Tired of flashy windows? Try Tetris OS!
 
